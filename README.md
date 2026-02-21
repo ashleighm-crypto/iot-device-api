@@ -86,7 +86,7 @@ pip (Python package manager)
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/iot-device-api.git
+git clone https://github.com/ashleighm-crypto/iot-device-api.git
 cd iot-device-api
 
 # Install dependencies
@@ -222,7 +222,7 @@ iot-device-api/
 ├── api.py              # Flask routes and HTTP handling
 ├── dal.py              # Database access layer
 ├── storage.db          # Shelve database file (auto-generated)
-├── README.md           # This file
+├── README.md           # You are here!!!
 └── requirements.txt    # Python dependencies
 ```
 
